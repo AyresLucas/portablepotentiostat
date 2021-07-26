@@ -8,5 +8,5 @@ firmwareUSB:
 
 
 Hardware:
-Graphical User Interface (GUI): This application was developed in node js and it is goal is to manage the portable instrument via Wifi, which includes data acquisition as well as 
+Graphical User Interface (GUI): This application was developed in node js and it is goal is to manage the portable instrument via Wifi. The remote management includes data acquisition as well as 
 Assemble instructions:
