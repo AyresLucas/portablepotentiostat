@@ -8,7 +8,8 @@ firmwareUSB:
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Hardware:
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Graphical User Interface (GUI): This application was developed in node js and it is goal is to manage the portable instrument via Wifi. The remote management includes the paramaters configuration for the analytical technique as well as data acquisition of the instrumentation developed. The sofware has two main parts for the folowwing techniques: Amperometry and Ciclic Voltametry. Regarding ampetometry, standard parameters such as pottential applied, time as well as sample interval are avaibale are easily set up on it is main screen. With regard ciclic voltametry, parameters such as enitial potential, high potential, low potential, scan rate as well as sweep segments are availabe to be set up according to the user needs.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Assemble instructions:
